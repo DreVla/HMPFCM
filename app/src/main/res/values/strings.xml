@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HPMFCM</string>
+    <string name="sub_to_weather">Subscribe to weather</string>
+    <string name="unsub_to_weather">Unsubscribe from weather</string>
+    <string name="choose_subscription">Choose Subscription!</string>
+    <string name="sub_to_news">Subscribe to News</string>
+    <string name="unsub_to_news">Unsubscribe from News</string>
+    <string name="default_notification_channel_id">com.hpmtutorial.hpmfcm</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "566709372590",
+    "firebase_url": "https://hpmfcm.firebaseio.com",
+    "project_id": "hpmfcm",
+    "storage_bucket": "hpmfcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566709372590:android:a0efb50c09d6e4bc",
+        "android_client_info": {
+          "package_name": "com.hpmtutorial.hpmfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566709372590-3eanc3uov0e53cpqm1n5o3n863hmlf11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hpmtutorial.hpmfcm",
+            "certificate_hash": "19023e8bef3692e035312ee91fc71da30159052e"
+          }
+        },
+        {
+          "client_id": "566709372590-kalognb3phiksh0tqp2pcf981cm4q2ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7l4Tf9ogbtTPKTPzgRQIXy0SemioH798"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566709372590-kalognb3phiksh0tqp2pcf981cm4q2ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
