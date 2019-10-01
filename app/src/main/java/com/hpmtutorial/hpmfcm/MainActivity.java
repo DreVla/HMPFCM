@@ -15,7 +15,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
 	System.out.println("Start");
+
         Button sub_weather = findViewById(R.id.subscribe_weather);
         Button unsub_weather = findViewById(R.id.unsubscribe_weather);
         Button sub_news = findViewById(R.id.sub_news);
